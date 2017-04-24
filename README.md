@@ -10,6 +10,7 @@ In this python notebook, we will first load the data from the book and tokenize 
 
 # Result
 Here is an sample of the graph.
+![Alt text](https://github.com/BenjiKCF/Word2Vec-for-The-Big-Short/blob/master/result.png)
 
 Here is another example of linear relationship of words.
 As male is related to female, as doctor is related to nurse.
